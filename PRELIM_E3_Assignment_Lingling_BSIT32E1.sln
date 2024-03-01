@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELIM_E3_Assignment_Lingling_BSIT32E1", "PRELIM_E3_Assignment_Lingling_BSIT32E1\PRELIM_E3_Assignment_Lingling_BSIT32E1.csproj", "{8265B2C8-B7E5-4C33-9CD0-762C57942AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8265B2C8-B7E5-4C33-9CD0-762C57942AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8265B2C8-B7E5-4C33-9CD0-762C57942AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8265B2C8-B7E5-4C33-9CD0-762C57942AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8265B2C8-B7E5-4C33-9CD0-762C57942AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84807ECC-9053-42B3-87E7-3D71C20E4775}
+	EndGlobalSection
+EndGlobal
